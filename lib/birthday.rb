@@ -17,4 +17,5 @@ def  "age_appropriate_birthday" do
       "Sarah" => 6,
       "Amanda" => 27
     }
-    
+  end
+end 
